@@ -1,8 +1,5 @@
 # Comprehensive MySQL 9 Password Reset Guide for macOS 15 (Sequoia)
 
-By Sahil Bhoite
-- Email: work.sahilbhoite@gmail.com
-- LinkedIn: https://www.linkedin.com/in/sahil-bhoite
 
 This detailed guide provides step-by-step instructions for resetting MySQL 9 database passwords on macOS 15 (Sequoia). It covers both non-root and root user account password resets, common errors, and troubleshooting tips.
 
